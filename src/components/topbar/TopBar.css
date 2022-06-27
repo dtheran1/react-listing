@@ -57,7 +57,14 @@
     font-size: 20px;
     cursor: pointer;
     text-align: center;
+    width: 150px;
+    transition: all;
 }
+
+.topbar-list-item:hover{
+    background: rgb(125, 114, 114);
+    color: #00b386;
+} 
 
 .topbar-search {
     color: #00b386;
