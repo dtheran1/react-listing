@@ -56,3 +56,11 @@
     margin-top: 12px;
     cursor: pointer;
 }
+
+.sidebar-social-icons {
+  margin-top: 12px;
+  width: 240px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
