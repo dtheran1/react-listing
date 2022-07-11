@@ -68,6 +68,6 @@
 .sidebar-social-icon {
     margin-right: 12px;
     cursor: pointer;
-    color: #00b386;
+    color: var(--primary-color);
     font-size: 22px;
 }

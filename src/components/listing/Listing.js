@@ -7,12 +7,6 @@ function Listing() {
     <div className='listing-section'>
       All Properties
       <ListingItem />
-      <ListingItem />
-      <ListingItem />
-      <ListingItem />
-      <ListingItem />
-      <ListingItem />
-      <ListingItem /> 
     </div>
   )
 }
